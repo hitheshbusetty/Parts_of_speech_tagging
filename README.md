@@ -49,6 +49,11 @@ after that we have created 100 samples using gibbs sampling and assinged parts o
 
 
 
+## Structure
+
++ `0_Getting_started` how to setup and connect to Twitter API V2 and MongoDB Atlas  
++ `
+
 
 
 
