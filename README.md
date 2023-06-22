@@ -49,18 +49,6 @@ after that we have created 100 samples using gibbs sampling and assinged parts o
 
 
 
-we got the following results for bc.test and bc.test.tiny.
-
-for bc.test
-
-<img width="447" alt="Screen Shot 2021-12-03 at 9 04 17 PM" src="https://media.github.iu.edu/user/18547/files/af957f00-5480-11ec-9cfe-a7bcd529e339">
-
-
-for bc.test.tiny
-
-<img width="444" alt="Screen Shot 2021-12-03 at 9 03 50 PM" src="https://media.github.iu.edu/user/18547/files/ce941100-5480-11ec-8f71-1a66a851f81d">
-
-
 
 
 
