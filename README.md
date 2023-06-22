@@ -1,5 +1,14 @@
 # Parts_of_speech_tagging
 
+
+## Structure of this repo
+
++ `bc.test - Test data set
++  bc.test.tiny  - Small test data set for unit tests
++  bc.train -Training dataset
++  pos_solver.py - Main code to perform part of speech tagging
++  pos_scorer.py - Code to evaluate the performance of the solver
+
 Aim: to find the parts of speech for the words in the snetence.
 observed variables: words in states
 
@@ -54,7 +63,9 @@ after that we have created 100 samples using gibbs sampling and assinged parts o
 + `bc.test - Test data set
 +  bc.test.tiny  - Small test data set for unit tests
 +  bc.train -Training dataset
-+ `
++  pos_solver.py - Main code to perform part of speech tagging
++  pos_scorer.py - Code to evaluate the performance of the solver
+  
 
 
 
