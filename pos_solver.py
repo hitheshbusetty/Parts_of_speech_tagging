@@ -1,10 +1,9 @@
 ###################################
 # CS B551 Spring 2021, Assignment #3
 #
-# Your names and user ids:
+# 
 # Hithesh Busetty and bhithesh
-# Dinesh challa and dichalla
-# Ujwala Shenoy and ushenoy
+# 
 #
 # (Based on skeleton code by D. Crandall)
 #
