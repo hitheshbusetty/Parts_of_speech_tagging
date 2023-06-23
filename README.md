@@ -9,7 +9,7 @@
 +  pos_solver.py - Main code to perform part of speech tagging
 +  pos_scorer.py - Code to evaluate the performance of the solver
 
-Aim: to find the parts of speech for the words in the snetence.
+Aim: to find the parts of speech for the words in the sentence.
 observed variables: words in states
 
 Training the model:
